@@ -2,13 +2,9 @@
 
 [sample/app-debug.apk](/sample/app-debug.apk)
 
-# ScreenShot
-
-![screenshot](/sample/screenshot.png)
-
 # ScreenRecord
 
-![screenrecord](/sample/screenshot_movie.mp4)
+https://github.com/user-attachments/assets/86244466-0396-4987-8bcb-7575c8312b8b
 
 # bugreport
 
