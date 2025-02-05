@@ -13,3 +13,8 @@ https://github.com/user-attachments/assets/86244466-0396-4987-8bcb-7575c8312b8b
 # bugreport
 
 [sample/bugreport-lynx-AP4A.250105.002-2025-02-04-18-56-22.zip](/sample/bugreport-lynx-AP4A.250105.002-2025-02-04-18-56-22.zip)
+
+# Screenshot of Chrome inspector
+
+[sample/inspector_enable_backdrop.jpg](/sample/inspector_enable_backdrop.jpg)
+[sample/inspector_disable_backdrop.jpg](/sample/inspector_disable_backdrop.jpg)
